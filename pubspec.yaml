@@ -14,7 +14,9 @@ dependencies:
     sdk: flutter
 
   flutter_reactive_ble: ^5.0.3
-  ledger_usb: ^1.0.0
+  ledger_usb:
+    git: https://github.com/MrCyjaneK/ledger-usb
+    ref: 5da9a55a7ca561c13962eb29e5c45ff8d3726172
 
 dev_dependencies:
   flutter_test:
